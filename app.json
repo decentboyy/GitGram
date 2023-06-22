@@ -6,9 +6,9 @@
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
-    "website": "https://github.com/pokurt/GitGram",
-    "success_url": "https://t.me/GitGramChat",
+    "repository": "https://github.com/decentboyy/GitGram",
+    "website": "https://github.com/decentboyy/GitGram",
+    "success_url": "https://t.me/Octave_support",
     "stack": "container",
     "env": {
         "ENV": {
